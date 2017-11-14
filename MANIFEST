@@ -1,0 +1,9 @@
+.gitignore
+COPYING
+CREDITS
+FAQ.md
+HISTORY.md
+TAGs
+file_analyzer.py
+signatures.sqlite
+MANIFEST
